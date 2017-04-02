@@ -1,3 +1,9 @@
 [submodule "cv_template_2004"]
 	path = cv_template_2004
 	url = https://github.com/watsonbox/cv_template_2004.git
+[submodule "Awesome-CV"]
+	path = Awesome-CV
+	url = https://github.com/posquit0/Awesome-CV.git
+[submodule "src/Awesome-CV"]
+	path = src/Awesome-CV
+	url = https://github.com/posquit0/Awesome-CV.git

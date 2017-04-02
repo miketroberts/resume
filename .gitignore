@@ -1,1 +1,4 @@
-build/**
+src/resume.aux
+src/resume.log
+src/resume.out
+src/resume.pdf
